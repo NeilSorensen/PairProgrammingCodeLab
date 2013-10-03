@@ -1,0 +1,13 @@
+1) Did you pair program for the activity?
+
+2) What language did you use for this activity?
+
+3) How familiar are you with that language?  If you paired, how familiar is your partner with that language?
+
+4) Did you use TDD in coming up with a solution?
+
+5) Did you complete the activity?
+
+6) How long did it take you to complete the activity?
+
+7) If not, what portions were you able to complete?  How long did you spend on the activity before you finished?
