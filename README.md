@@ -13,6 +13,8 @@ LCD Numbers
 Please write a program that takes a number and returns the ascii text version of a LCD display.
 
 For example, for input:
+	
+	
 	0123
 
 Your program should output:
@@ -22,6 +24,7 @@ Your program should output:
 	|_|   | |_   _|
 	
 For reference, the full set of LCD digits is:
+	
 	 _       _   _       _       _   _   _ 
 	| |   |  _|  _| |_| |_  |_    | |_| |_|
 	|_|   | |_   _|   |  _| |_|   | |_|  _|
